@@ -1,7 +1,8 @@
 # Array-Operation
 A simple C program for performing basic operations on an array!
 
-📜 Description
+📜 Description:
+
 This project allows users to:
 
 ✅ Insert values into an array
